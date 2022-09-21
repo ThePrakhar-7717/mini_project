@@ -35,7 +35,7 @@ public class miniproject {
             {
                 System.out.println("Its a wrong answer\nLOL");
                 System.out.println("If you wanna know right answer enter any neagtive value");
-                if(number==-1)
+                if(number==-1) 
                 {
                     System.out.println("The number is: %d"+ mynumber);
                 }
